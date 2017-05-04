@@ -1,0 +1,10 @@
+[package]
+name = "kkdcp"
+version = "0.1.0"
+authors = ["Kai Blin <kai@samba.org>"]
+
+[dependencies]
+hyper = "0.10"
+pretty_env_logger = "*"
+eagre-asn1 = "*"
+hexdump = "*"
